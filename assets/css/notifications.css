@@ -1,0 +1,10 @@
+#div01headerSpan{
+    display: flex;
+}
+#logolink01{
+    width:3vw;
+    height: 4vh;
+}
+.content{
+    padding: 0px 10px;
+}

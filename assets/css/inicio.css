@@ -1,0 +1,45 @@
+body{
+    background-color: #ffffff;
+}
+#divHeader01{
+    display: flex;
+}
+#span01{
+    padding: 0px 1vw;
+    transition-duration: 1s;
+}
+#span01:hover{
+    transition-duration: 1s;
+    scale: 1.102;
+}
+#imgLogo01{
+    width: 6vw;
+    height: 6vw;
+}
+#titleinicio{
+    font-size: 40px;
+    font-family: serif;
+}
+#span02{
+    padding: 5vh 70vw;
+    display: flex;
+}
+#notifications{
+    width: 3vw;
+    height: 3vw;
+    padding: 0px 10px;
+}
+#notifications:hover{
+    scale: 1.05;
+}
+#message{
+    padding: 0px 10px;
+    width: 3vw;
+    height: 3vw;
+}
+#message:hover{
+    scale: 1.05;
+}
+#brakeHeader01{
+    border: solid 2px rgb(0, 0, 0);
+}

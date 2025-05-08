@@ -1,0 +1,34 @@
+h1{
+    padding: 2vh;
+    text-align: center;
+}
+form fieldset{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    margin: auto
+}
+legend{
+    color: rgb(0, 0, 0);
+}
+label{
+    color: rgb(196, 196, 196);
+}
+label[for="n9"]{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.labelRadio{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+input[type="submit"]{
+    background-color: rgb(99, 99, 99);
+    color: rgb(255, 255, 255);
+}
+input[type="text"]{
+    background-color: white;
+    color: black
+}
