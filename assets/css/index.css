@@ -2,6 +2,12 @@ h1{
     padding: 2vh;
     text-align: center;
 }
+#box01{
+    padding: 4vh;
+    margin: auto;
+    width: 60vw;
+    border: solid 2px black;
+}
 form fieldset{
     background-color: rgb(255, 255, 255);
     border-radius: 20px;
@@ -15,14 +21,6 @@ legend{
 }
 label{
     color: rgb(196, 196, 196);
-}
-label[for="n9"]{
-    color: rgb(255, 255, 255);
-    text-align: center;
-}
-.labelRadio{
-    color: rgb(255, 255, 255);
-    text-align: center;
 }
 input[type="submit"]{
     background-color: rgb(99, 99, 99);
