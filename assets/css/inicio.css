@@ -21,8 +21,10 @@ body{
     font-family: serif;
 }
 #span02{
-    padding: 5vh 70vw;
     display: flex;
+    width: 100vw;
+    align-items: end;
+    flex-direction: column;
 }
 #notifications{
     width: 3vw;
@@ -42,4 +44,7 @@ body{
 }
 #brakeHeader01{
     border: solid 2px rgb(0, 0, 0);
+}
+main{
+    min-height: 200vh
 }
