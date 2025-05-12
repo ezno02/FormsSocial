@@ -48,3 +48,12 @@ body{
 main{
     min-height: 200vh
 }
+.main01div{
+    display: flex;
+}
+.leftbarSpan{
+    display: flex;
+    flex-direction: column;
+    height: 200vh;
+    border: solid 2px black;
+}
